@@ -1,3 +1,3 @@
-# QuanTyPhos
+# QuantYPhos
 
 Coming Soon !!
